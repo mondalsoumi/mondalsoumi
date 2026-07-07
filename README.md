@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer & AI Engineer | CSE @ SRM IST</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ https://www.linkedin.com/in/soumi-mondal-950417256">
+  <a href="https://www.linkedin.com/in/soumi-mondal-950417256">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mondalsoumi295@gmail.com">
@@ -55,7 +55,7 @@
 </td>
 <td width="50%" valign="top">
 
-**AI Career Pipeline**
+**[AI Career Pipeline](https://github.com/mondalsoumi/AI-CAREER-PIPELINE)**
 
 6-service microservices platform for AI-powered job search: auth, applications, analytics, AI matching, gateway, frontend.
 - Redis pub/sub for event-driven analytics recomputation
@@ -136,13 +136,6 @@ More on my [pinned repositories →](https://github.com/mondalsoumi?tab=reposito
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mondalsoumi&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondalsoumi&layout=compact&hide_border=true" />
-</p>
 
----
-
-<p align="center"><i>Open to opportunities in ML/AI engineering, data science, and full-stack development.</i></p>
+<p align="center"><i>Open to opportunities in Full-Stack Development and ML/AI Engineering.</i></p>
