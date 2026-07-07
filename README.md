@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer & AI Engineer | CSE @ SRM IST</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/ https://www.linkedin.com/in/soumi-mondal-950417256">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mondalsoumi295@gmail.com">
@@ -18,7 +18,7 @@
 ### 🎯 About Me
 
 - 🎓 Integrated M.Tech in CSE (Cognitive Computing), SRM IST — **CGPA 9.4**
-- 🧠 I build ML/DL systems for scientific prediction problems and full-stack platforms that put those models to work in the real world
+- 🧠 I build ML/DL systems for prediction problems and full-stack platforms that put those models to work in the real world
 - ⚙️ Recently automated production workflows at **Renault Nissan (RNAIPL)** and shipped observatory control software at **Physical Research Laboratory, Mount Abu**
 - 🌱 Currently deepening my work in GenAI, MERN stack, System Design
 - 📫 Reach me at **mondalsoumi295@gmail.com**
